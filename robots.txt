@@ -1,0 +1,12 @@
+# Disallow indexing of the details pages (to save bandwidth)
+User-agent: *
+# RJH removed these restrictions 22Apr13
+#Disallow: /Resources/Pages/Lexicon/Details/
+#Disallow: /Resources/Pages/Lexicon/Pictures/
+#Disallow: /Resources/Pages/Lexicon/Sounds/
+#Disallow: /Resources/Pages/Lexicon2/Details/
+#Disallow: /Resources/Pages/Lexicon2/Pictures/
+#Disallow: /Resources/Pages/Lexicon2/Sounds/
+#Disallow: /Resources/Pages/Bible/Concordance/
+#Disallow: /Resources/Pages/Healthbooks/Pictures/
+#Disallow: /Resources/Pages/Readers/Pictures/
